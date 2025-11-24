@@ -1,0 +1,121 @@
+Breed,ConditionA,ConditionB
+affenpinscher,patellar luxation,Hip Dysplasia
+afghan_hound,Hip and Elbow Dysplasia,Eye Problems
+african_hunting_dog,Fanconi syndrome,progressive retinal atrophy
+airedale,Hip and elbow dysplasia,Von Willebrand's disease
+american_staffordshire_terrier,Hip Dysplasia,Heart Disease
+appenzeller,Hip and elbow dysplasia,Gastric torsion
+australian_terrier,Legg-Calve-Perthes disease,Skin sensitivities and allergies
+basenji,Fanconi syndrome,progressive retinal atrophy
+basset,Bloat (GDV),Ear infections
+beagle,Cherry Eye,Epilepsy
+bedlington_terrier,Von Willebrand’s disease,Liver disease
+bernese_mountain_dog,Cancer,Hip and elbow dysplasia
+black-and-tan_coonhound,Hip and elbow dysplasia,Ear infections
+blenheim_spaniel,Mitral valve disease,Syringomyelia
+bloodhound,Hip/elbow dysplasia,Heart problems
+bluetick,Bloating,Progressive retinal atrophy
+border_collie,Epilepsy,Hip Dysplasia
+border_terrier,GBM,Cushing’s disease
+borzoi,Osteochondritis dissecans,Bloating
+boston_bull,Hip Dysplasia,Digestive Issues
+bouvier_des_flandres,Hip dysplasia,Elbow dysplasia
+boxer,Brachycephalic obstructive airway syndrome (BOAS),Subvalvular aortic stenosis
+brabancon_griffon,Luxating Patella,Respiratory Issues
+briard,Hip Dysplasia,Von Willebrand's Disease
+brittany_spaniel,Hip and elbow dysplasia,Epilepsy
+bull_mastiff,Skeletal and joint problems,Cancer
+cairn,Genetic kidney problems,Luxating patella
+cardigan,Hip and elbow dysplasia,Progressive Retinal Atrophy
+chesapeake_bay_retriever,Hip and Elbow Dysplasia,Osteochondritis Dissecans
+chihuahua,Dental Disease,Patellar luxation
+chow,Hip Dysplasia,Brachycephalic Airway Syndrome
+clumber,Hip and Elbow Dysplasia,Hypothyroidism
+cocker_spaniel,Ear infections,Eye diseases
+collie,Collie Eye Anomaly,Osteochondritis Dissecans
+curly-coated_retriever,Hip dysplasia,Eye diseases
+dandie_dinmont,Glaucoma,Intervertebral Disc Disease
+dhole,Rabies,Parovirus
+dingo,Bloating,Hip Dysplasia
+doberman,Gastric dilatation-volvulus,Dilated cardiomyopathy
+english_foxhound,Hip Dysplasia,Renal Disease
+english_setter,Bloat,Deafness
+english_springer,Ear infections,Hip dysplasia
+entlebucher,Hip Dysplasia,Entlebucher Urinary Syndrome
+eskimo_dog,Hip Dysplasia,Progressive Retinal Atrophy
+flat-coated_retriever,Histiocytic Sarcoma,Hip Dysplasia
+french_bulldog,Brachycephalic obstructive airway syndrome,Intervertebral disc disease
+german_shepherd,Hip dysplasia,Elbow dysplasia
+german_short-haired_pointer,Hip dysplasia,Bloat / gastric torsion
+giant_schnauzer,Hip dysplasia,Autoimmune thyroiditis
+golden_retriever,Cardiomyopathy,Elbow Dysplasia
+gordon_setter,Bloat,Hypothyroidism
+great_dane,Gastric dilatation-volvulus,Dilated cardiomyopathy
+great_pyrenees,Neurological Disorders,Hip Dysplasia
+greater_swiss_mountain_dog,Splenic torsion,Bloat
+groenendael,Hypothyroidism,Canine hip dysplasia
+ibizan_hound,Hip dysplasia,Autoimmune thyroiditis
+irish_setter,Hip and elbow dysplasia,Bloat
+irish_terrier,Bladder stones,Cracked footpads
+irish_water_spaniel,Lymphoma,Obesity
+irish_wolfhound,Dilated Cardiomyopathy,Fibrocartilaginous Embolic Myelopathy
+italian_greyhound,Dental Disease,Eye Problems
+japanese_spaniel,Brachycephalic airway syndrome,Patellar luxation
+keeshond,Hip dysplasia,Patellar luxation
+kelpie,Hip Dysplasia,Cerebellar Abiotrophy
+kerry_blue_terrier,dermatitis,Hip dysplasia
+komondor,Hip and elbow dysplasia,Bloat
+kuvasz,Progressive retinal atrophy,Bloat
+labrador_retriever,Elbow dysplasia,Tricuspid valve dysplasia
+lakeland_terrier,Legg-Calves-Perthes disease,Bleeding Disorders
+leonberg,Osteosarcoma,Panosteitis
+lhasa,progressive retinal atrophy,Cheery eye
+malamute,Hip and Elbow Dysplasia,Hypothyroidism
+malinois,Hip and elbow dysplasia,Progressive Retinal Atrophy
+maltese_dog,Heart Problems,Liver Shunt
+mexican_hairless,Adolescent acne,Skin sensitivity
+miniature_pinscher,Legg-Calve-Perthes Disease,Epilepsy
+miniature_poodle,Patellar luxation,Progressive retinal atrophy (PRA)
+miniature_schnauzer,Hyperlipidemia,Urinary Stones
+newfoundland,Gastric Dilatation-Volvulus,Osteosarcoma
+norfolk_terrier,Allergies,Cataracts
+norwegian_elkhound,Progressive retinal atrophy,Kidney problems
+norwich_terrier,Luxating Patella,Upper Airway Syndrome
+old_english_sheepdog,Hip Dysplasia,Progressive Retinal Atrophy
+otterhound,Epilepsy,Bloating
+papillon,Progressive Retinal Atrophy,Portosystemic Shunt
+pekinese,Brachycephalic syndrome,Dry eye syndrome
+pembroke,Hip dysplasia,Intervertebral disc disease
+pomeranian,Tracheal collapse,Patellar luxation
+pug,Brachycephalic Airway Syndrome,Skin fold infections
+redbone,Cancer,Heartworm
+rhodesian_ridgeback,Dermoid sinus,Hip dysplasia
+rottweiler,Hip dysplasia,Osteosarcoma
+saint_bernard,Diabetes,Degenerative Myelopathy
+saluki,Cardiomyopathy,Cancer
+samoyed,Glomerulopathy,Von Willebrand's disease
+schipperke,Patellar luxation,Legg-Calve-Perthes disease
+scotch_terrier,Cancer,Von Willebrand's Disease
+scottish_deerhound,Dilated cardiomyopathy,Cystinuria
+sealyham_terrier,Primary lens luxation,Intervertebral disc disease
+shetland_sheepdog,Von Willebrand’s disease,Legg-Calve-Perthes disease
+shih-tzu,Brachycephalic Syndrome,Eye Problems
+siberian_husky,Seizures,Progressive Retinal Atrophy
+silky_terrier,Patellar luxation,Tracheal collapse
+soft-coated_wheaten_terrier,Kidney Problems,Protein Wasting Disease
+staffordshire_bullterrier,Luxating Patella,Hip Dysplasia
+standard_poodle,Hip dysplasia,Progressive retinal atrophy
+standard_schnauzer,Hypothyroidism,Hemophilia
+sussex_spaniel,Hip dysplasia,Ear infections
+tibetan_mastiff,Hip dysplasia,Hypothyroidism
+tibetan_terrier,Patellar luxation,Primary lens luxation
+toy_poodle,Hip dysplasia,Progressive retinal atrophy
+toy_terrier,Von Willebrand's Disease,Hypothyroidism
+vizsla,Hip dysplasia,Epilepsy
+walker_hound,Degenerative Myelopathy,Ectropion
+weimaraner,Hip dysplasia,Bloat
+welsh_springer_spaniel,Hip and elbow dysplasia,Ear infections
+west_highland_white_terrier,dermatitis,Legg-Perthes disease
+whippet,Mitral valve (heart) disease,Anesthesia sensitivity
+wire-haired_fox_terrier,Lens luxation ,Patella luxation
+yorkshire_terrier,Patellar luxation,Tracheal collapse
